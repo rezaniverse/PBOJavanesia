@@ -1,6 +1,6 @@
 /*
  Dibuat untuk memenuhi tugas perkuliahan Pemprograman Berbasis Objek
- Riize
+ Riize || riizeis.me || riizeadev.tech
  Date: 2024-03-15
  */
 
